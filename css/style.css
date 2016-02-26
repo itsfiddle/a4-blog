@@ -1,0 +1,118 @@
+
+header {
+  text-align: center;
+  background-size: cover;
+  background: url("http://www.themesltd.com/headers2/denim_jacket.png");
+  color: grey;
+}
+
+
+
+
+ul {
+  padding: 10px;
+  background: plum;
+
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+
+
+}
+
+header > a {
+  color: red;
+}
+
+li > a {
+  text-transform: uppercase;
+
+}
+
+h1, h2, h3 {
+  font-family: 'Opens Sans Condenesed', sans-serif;
+  background-color: tan;
+  background width: 50px;
+  width: 300px;
+}
+
+
+
+
+h1 {
+  font-size: 70px;
+  margin: 20px;
+}
+
+h2 {
+  font-size: 36px;
+  margin: 10px 0px;
+}
+
+h3 {
+  font-size: 36px;
+  margin: 10px 0px;
+}
+
+.profile {
+  margin-top: 50px;
+  border: 7px solid grey;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+article {
+  margin-top: 50px;
+
+}
+
+p {
+  margin: 20px 0px;
+  line-height: 1.5;
+  font-size: 20px;
+  clear: left;
+  background-color: lightpink;
+  padding: 20px 20px;
+
+}
+
+
+.container {
+  margin: 0 auto;
+  padding: 50px;
+  width: 50%;
+
+
+}
+
+.quote {
+  float: right;
+
+}  
+
+
+/* unvisited link */
+a:link {
+    color: skyblue;
+}
+
+/* visited link */
+a:visited {
+    color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+    color: transparent;
+}
+
+/* selected link */
+a:active {
+    color: pink;
+}
+
+
+
